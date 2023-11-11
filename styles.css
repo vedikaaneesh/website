@@ -1,0 +1,166 @@
+body{
+    font-family: "Montserrat";
+}
+
+
+
+h1{
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+  
+    font-size: 1.4rem;
+}
+
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+
+
+#title{
+    background-color: #ea4354;
+  
+}
+
+.title-image{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.icn{
+    color: #ee737f;
+    font-size: 4rem;
+    padding-bottom: 5%;
+    align-items: center;
+    transition: transform 0.3s;
+}
+
+.icn:hover{
+    color: #ea4354;
+}
+
+
+#features{
+    padding: 7% 15%;
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
+
+.fontt{
+    
+    font-weight: 800;
+    text-align: center;
+    
+}
+
+.featuress{
+    padding: 5%;
+    text-align: center;
+   
+}
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ee737f;
+    color: white;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.test-dog{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ee737f;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+    
+}
+
+.carousel-item{
+    padding: 7% 15%;
+
+}
+
+#pricing
+{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+#cta
+{
+    background-color: #ea4354;
+    text-align: center;
+    
+    padding: 7% 15%;
+
+}
+
+.finaltext
+{
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+#footer
+{
+    text-align: center;
+    
+    padding: 7% 15%;
+}
+
+.iconn {
+    margin: 3% 3% 3% 3%;
+}
